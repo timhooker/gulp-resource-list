@@ -9,14 +9,14 @@ This is a quick repo for us to talk about Gulp and to allow me to have a sheet t
 	* npm
 
 ## GULP HELPFUL LINKS
-	* http://gulpjs.com/
-	* https://github.com/gulpjs/gulp/tree/master/docs
+	* <http://gulpjs.com/>
+	* <https://github.com/gulpjs/gulp/tree/master/docs>
 
 
 ## Interesting Builds
-	* https://github.com/40Digits/gulp-eta
-	* https://www.npmjs.com/package/generator-buildabanner
-	* https://github.com/chrisdavies/gulp_starter_kit
+	* <https://github.com/40Digits/gulp-eta>
+	* <https://www.npmjs.com/package/generator-buildabanner>
+	* <https://github.com/chrisdavies/gulp_starter_kit>
 
 	* I have a number of gulp builds I customize to my use that Chris Davies wrote
 
